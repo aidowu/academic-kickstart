@@ -71,4 +71,5 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth year graduate student in the Renewable Energy Lab (REAL) at University of Washington, Seattle. My research interests are in control and optimization, and its application to power systems and renewable energy.
+I am a fifth year PhD candidate advised by [Prof. Baosen Zhang](http://zhangbaosen.github.io) in the Electrical and Computer Engineering Department, University of Washington, Seattle. My broad research interests are in control and optimization of complex dynamic systems.  My doctoral thesis focuses on data-driven optimal control of inverter-based resources (IBRs) for frequency control in a low-inertia power network, that is, a power systems with a high penetration of renewable energy. My resume can be found {{% staticref "files/Resume_Detailed.pdf" %}} here{{% /staticref %}}
+
